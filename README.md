@@ -1,4 +1,4 @@
-## Slack bot for Schibsted x Hive Helsinki challenge 2023
+## Slack bot for Schibsted Coding Challenge x Hive Helsinki 2023
 
 ## Collaboration
 
