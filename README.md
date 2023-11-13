@@ -1,3 +1,10 @@
+## Slack bot for Schibsted x Hive Helsinki challenge 2023
+
+## Collaboration
+
+This project was in collaboration with [Dorian Jagusch](https://github.com/dorianjagusch), [Sheree Morphett](https://github.com/ShereeMorphett) and [Josefina Husso](https://github.com/hussojo) .
+
+## Idea
 This Slack bot is designed to help users understand the meaning of acronyms and other terms that are commonly used in their workplace. With the use of simple commands, users can search, add, edit, or delete acronyms and their respective definitions. All commands will trigger the bot to open a direct message (DM) with the user who issued the command. This is where the bot will provide feedback and display the results of the command.
 
 The primary functionality of the code revolves around reading from and writing to a JSON file that serves as a dictionary to store acronyms and their corresponding meanings. The dictionary is stored in a file named "dict.json".
